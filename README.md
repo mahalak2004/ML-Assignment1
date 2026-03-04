@@ -106,6 +106,7 @@ Suitable for:
 
 ## 👨‍💻 Author
 
-Your Name  
-Computer Science Engineering  
+Mahalakshmi E
+2303717710422704
+Computer Science and Engineering  
 Machine Learning Project
